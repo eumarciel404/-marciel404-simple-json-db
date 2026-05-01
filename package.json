@@ -1,0 +1,27 @@
+{
+  "name": "@marciel404/simple-json-db",
+  "version": "2026.0.4-b",
+  "description": "A simple json db",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "publishConfig": {
+    "access": "public",
+    "tag": "prerelease"
+  },
+  "files": ["dist", "README"],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["json", "db", "json-db", "simple"],
+  "homepage": "",
+  "bugs": {
+    "url": "https://"
+  },
+  "author": "marciel404",
+  "license": "MIT",
+  "type": "commonjs"
+}
